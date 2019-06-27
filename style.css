@@ -1,0 +1,79 @@
+.titulo
+{
+    font-family:  oblique bold 120% cursive ;
+ margin-left: 0%
+
+}
+.yo
+{
+    margin-right: 0%;
+    border:   rgb(226, 156, 156) !important;
+    border-style: solid !important;
+    margin-right :100px;
+    background-color:  rgb(226, 156, 156) !important;
+}
+
+
+.body
+  {
+      background-color: rgb(226, 156, 156)
+       ;
+  }
+  .carousel
+{
+
+    width: 200px;
+    
+}
+.escritires 
+{
+    background-color: rgb(226, 156, 156)  ;
+}
+
+.escritores{
+    background-color: rgb(226, 156, 156) !important;
+}
+
+.col{
+    width: 50px;
+}
+
+.imagen1{
+    height:300px;
+}
+
+
+.body {
+    background-color: rgb(151, 224, 200);
+}
+.yo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 200px
+}
+.tite {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 200px;
+    text-align: center
+}
+.continer {
+    margin-right: 10px
+}
+.info{
+    text-align: center;
+    background-color: aquamarine
+}
+.me{
+    height:400px;
+    display:block;
+margin:auto;
+
+}
+.lo {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100px;
+    text-align: center
+}
+.la{
+    
+}
